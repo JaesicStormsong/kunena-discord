@@ -14,7 +14,7 @@ choose from your Kunena categories on which channel should be post.
 Take a look at the full [Documentation](https://kunena-discord.readthedocs.io/en/latest/).
 
 ###### available translations
-* englisch
+* english
 * german
 * spanish
 * french - thx to [yohji79](https://github.com/yohji79)
